@@ -84,8 +84,15 @@ public class Main {
     }
 }
 ```
+
 ## 📜 Licencia
 ### Este proyecto está bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente.
+
+## 🎨 **Diseño en Canva**  
+Si deseas ver la explicacion de manera mas detallada, haz clic en el siguiente enlace:  
+
+🔗 **[👉 Ver en Canva](https://www.canva.com/design/DAGhjYrNAGo/6ZX38CzNG7qRqyrh_-8z9g/edit?utm_content=DAGhjYrNAGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
+
 
 📌 **Desarrollado por:**  
 #### 🔥😎 **Valery Chumpitaz** 💻🚀  
