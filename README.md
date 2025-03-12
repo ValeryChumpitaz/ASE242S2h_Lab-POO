@@ -8,8 +8,6 @@ Este proyecto es una implementación de los principales conceptos de la **Progra
 - 🔹 **Herencia**  
 - 🔹 **Polimorfismo**  
 
-## 📂 Estructura del Proyecto  
-
 ## 📂 Estructura del Proyecto
 
 ```bash
