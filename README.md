@@ -85,6 +85,32 @@ public class Main {
 }
 ```
 
+# 🚀 Reto 1: Crea tu propio zoo 🦁🐍🐘  
+🔹 **Objetivo:** Aplicar **herencia y polimorfismo** creando una jerarquía de animales en Java.  
+
+## 📌 Instrucciones  
+1. Crea una clase base `Animal` con un método `hacerSonido()`.  
+2. Crea al menos **tres** clases hijas (`Leon`, `Serpiente`, `Elefante`), cada una con su propia versión del método `hacerSonido()`.  
+3. En el `main`, crea una lista de animales y recórrela para llamar a `hacerSonido()`.  
+
+
+📢 **Extra:** Agrega atributos como `habitat` o `peso` y muéstralos.  
+
+---
+
+# 🔥 Reto Opcional: Simulador de Cuenta Bancaria 💰  
+🔹 **Objetivo:** Aplicar **encapsulamiento y abstracción** creando un sistema de cuentas bancarias en Java.  
+
+## 📌 Instrucciones  
+1. Crea una **clase abstracta** `CuentaBancaria` con un atributo `saldo` y métodos `depositar()` y `retirar()`.  
+2. Crea dos clases hijas:  
+   - `CuentaCorriente` (permite sobregiros)  
+   - `CuentaAhorro` (no permite saldo negativo)  
+3. En el `main`, crea una cuenta de cada tipo y realiza operaciones.  
+
+
+📢 **Extra:** Agregar un sistema de **interés anual** para `CuentaAhorro`.  
+
 ## 📜 Licencia
 ### Este proyecto está bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente.
 
