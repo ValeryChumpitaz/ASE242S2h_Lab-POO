@@ -2,7 +2,7 @@
 
 package pe.edu.vallegrande.herencia;
 
-// Clase que representa a un empleado
+// Clase que representa a un empleado (Clase Padre)
 public class Empleado {
     // Atributos protegidos que almacenan el nombre y el salario del empleado
     protected String nombre;
