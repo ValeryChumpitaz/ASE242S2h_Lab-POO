@@ -1,8 +1,6 @@
-//📌 Objetivo: Crear una jerarquía donde Gerente herede de Empleado.
-
 package pe.edu.vallegrande.herencia;
 
-// Clase que representa a un empleado (Clase Padre)
+// Clase que representa a un empleado (📌Clase Padre)
 public class Empleado {
     // Atributos protegidos que almacenan el nombre y el salario del empleado
     protected String nombre;
