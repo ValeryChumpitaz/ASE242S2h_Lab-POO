@@ -1,6 +1,6 @@
 package pe.edu.vallegrande.herencia;
 
-// Clase que representa a un gerente y extiende de la clase Empleado
+// Clase que representa a un gerente  (Clase Hija)
 public class Gerente extends Empleado {
     // Atributo privado que almacena el departamento del gerente
     private String departamento;
